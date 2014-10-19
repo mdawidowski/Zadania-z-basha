@@ -1,4 +1,4 @@
-Zadania-z-basha
-===============
+##Bash-zadania    
 
-Rozwiązania zadań
+
+1\. Zadanie ...
