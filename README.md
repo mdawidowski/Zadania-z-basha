@@ -48,4 +48,16 @@ Bash -- zadania
 
 > cal 10 2009
 
+ Wyświetl kalendarz na październik, listopad i grudzień 2009 r. w taki sposób:
 
+> cal -3 10 2009
+
+I jeszcze raz na wrzesień i październik oraz na październik i listopad 2009 r z miesiącami obok siebie
+
+> cal -A 1 9 2009
+> cal -A 1 10 2009
+
+11\. Jaki był dzień tygodnia 25 maja 1975 r. (cal i date)
+
+> cal 5 1975
+> date -d "1975-5-25"
