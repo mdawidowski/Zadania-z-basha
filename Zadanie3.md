@@ -11,9 +11,9 @@
 > [9]+  Stopped    cat tekst1.txt tekst2.txt - > tekst3.txt 
 
 > more tekst3.txt
-> To
-> jest
-> tekst
+>  To
+>  jest
+>  tekst
 
 3\. Wyświetl po 5 pierwszych linii wszystkich plików w swoim katalogu domowym w taki sposób, aby nie były wyświetlane ich nazwy.
 
