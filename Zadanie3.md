@@ -7,13 +7,13 @@
 2\. Korzystając z polecenia cat utwórz plik tekst3.txt, który będzie składał się z zawartości pliku tekst1.txt, ciągu znaków podanego ze standardowego wejścia (klawiatury) i pliku tekst2.txt.
 
 > cat tekst1.txt tekst2.txt - > tekst3.txt    
-> tekst
+> tekst <br>
 > [9]+  Stopped    cat tekst1.txt tekst2.txt - > tekst3.txt 
 
-> more tekst3.txt
->  To
->  jest
->  tekst
+> more tekst3.txt <br>
+> To <br>
+> jest <br>
+> tekst
 
 3\. Wyświetl po 5 pierwszych linii wszystkich plików w swoim katalogu domowym w taki sposób, aby nie były wyświetlane ich nazwy.
 
