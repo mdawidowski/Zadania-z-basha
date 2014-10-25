@@ -36,3 +36,10 @@ W katalogu c utwórz plik program.c zawierający co najmniej 10 linii kodu napis
 > rm -r temp
 
 8\. Odtwórz z archiwum katalog temp. (unzip i tar)
+
+> tar -xf temp.tar
+> unzip temp.zip
+
+9\. Posprzątaj na swoim koncie.
+
+> rm temp.tar temp.zip
