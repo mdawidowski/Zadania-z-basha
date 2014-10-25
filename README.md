@@ -4,7 +4,7 @@ Bash - zadania
 
 ##[Laboratorium 2](https://github.com/mdawidowski/Zadania-z-basha/blob/master/Zadanie2.md)
 
-##[Laboratorium 3]()
+##[Laboratorium 3](https://github.com/mdawidowski/Zadania-z-basha/blob/master/Zadanie3.md)
 
 ##[Laboratorium 4]()
 
