@@ -18,7 +18,7 @@ W katalogu c utwórz plik program.c zawierający co najmniej 10 linii kodu napis
 
 > grep "main" program.c
 
-4\ 4. Plikowi program.c nadaj następujące uprawnienia: właściciel – czytanie, pisanie, grupa – czytanie, pozostali użytkownicy: brak uprawnień. (chmod)
+4\. Plikowi program.c nadaj następujące uprawnienia: właściciel – czytanie, pisanie, grupa – czytanie, pozostali użytkownicy: brak uprawnień. (chmod)
 
 > chmod 640 program.c
 
