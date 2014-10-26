@@ -4,7 +4,10 @@
 
 2\. Wyświetl listę praw dostępu do plików w aktualnym katalogu, ich rozmiar i nazwę.
 
+
 3\. Wyświetl listę plików w aktualnym katalogu, posortowaną według rozmiaru pliku.
+
+> https://github.com/mdawidowski/Zadania-z-basha/blob/master/Zadanie3.md
 
 4\. Wyświetl zawartość pliku /etc/passwd posortowaną według numerów UID w kolejności od największego do najmniejszego.
 
