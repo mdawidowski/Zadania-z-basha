@@ -1,4 +1,4 @@
-Bash - zadania    
+Bash -- zadania    
 ---------------
 1. [Laboratorium 1](https://github.com/mdawidowski/Zadania-z-basha/blob/master/Zadanie1.md)
 
